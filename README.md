@@ -2,7 +2,7 @@
 
 ## Donatello
 
-Donatello is a custom made Linux Shell with implementations of some built in commands and the capability to start any user defined executable.
+Donatello is a custom made Linux Shell with implementations of some built in commands and the capability to start any user defined executable. Created as part of CS3.301 - Operating Systems and Networks at IIIT-H
 
 ### Instructions to Run
 

@@ -1,8 +1,5 @@
 # README
 
-CS3.301 - Operating Systems and Networks
-Assignment 2 by George Paul (roll no: 2021121006)
-
 ## Donatello
 
 Donatello is a custom made Linux Shell with implementations of some built in commands and the capability to start any user defined executable.
